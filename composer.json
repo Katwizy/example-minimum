@@ -1,0 +1,10 @@
+{
+    "name": "potherca/katwizy-example-minimal",
+    "description": "🌟 Most minimal example using Katwizy. 🏁🚗💨",
+    "type": "project",
+    "license": "GPL-3.0+",
+    "minimum-stability": "stable",
+    "require": {
+        "potherca/katwizy": "^0.1.0"
+    }
+}
